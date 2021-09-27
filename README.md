@@ -8,3 +8,9 @@ Your mission is to write a NodeJS program with following specs:
 5. Share your code solution with us
 
 # Solution
+run the task: 
+node main.js
+
+request.js (HTPPS GET and HTTPS POST) request.
+
+
